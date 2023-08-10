@@ -3,6 +3,33 @@
 
 •	Using SSAS to enable analysis by organizing data into easily searchable cubes and connect it to Power BI for building Dashboards and get insights from it.
 
+# Project Steps :
+1.question under analysis
+
+2.data acquisition
+
+3.data cleaning
+
+4.data warehouse design and ETL
+
+5.cubes
+
+6.dashboards
+
+7.Get insights From dashboards
+
+# Technologies used
+1.SQL
+
+2.SSIS
+
+3.SSAS
+
+4.SSRS
+
+5.POWER BI
+
+
 
 # Data Warhouse Design
 
