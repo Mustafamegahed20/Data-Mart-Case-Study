@@ -45,6 +45,8 @@
 
 ![Data-Flow-Data-mart](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/e2b5e563-fe27-4249-9835-569625201151)
 
+# Cubes and dimensions
+![image](https://github.com/Mustafamegahed20/Data-Mart-Case-Study/assets/61358936/9b434ae0-a459-48af-bdf8-bb9280a2498e)
 
 # DashBoards 
 ## page 1
