@@ -18,3 +18,17 @@
 
 ![Data-Flow-Data-mart](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/e2b5e563-fe27-4249-9835-569625201151)
 
+
+# DashBoards 
+## page 1
+![1](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/7351df17-3dca-45b4-871a-92b95ee03e1a)
+## page 2
+![2](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/c42245a7-5cec-48c0-a963-4ca8d3568a68)
+## page 3
+![3](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/6b2467d3-0621-4b00-8823-1d7ddff63256)
+## page 4
+![4](https://github.com/Mustafamegahed20/Data-Mart-Case-Study-ETLL/assets/61358936/728cf71b-8097-47c0-a67e-318d3e3555a7)
+
+
+
+
