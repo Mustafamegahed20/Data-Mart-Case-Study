@@ -1,5 +1,6 @@
 ﻿# Data-Mart-Case-Study-ETL
-Using SSIS (SQL Server Integration Services) and SQL to work on sales data mart from adventure work data to design datawarehouse and facilitate the integration , transforamtion and then loading it into the Data Warehouse, ensuring its readiness for visualization purposes.
+•	Design sales data mart from scratch using SQL and then applying the ETL process to integrate data from AdventureWorks2014, make various transformation and then load it into the Data-Warehouse using SSIS 
+•	Using SSAS to enable analysis by organizing data into easily searchable cubes and connect it to Power BI for building Dashboards and get insights from it.
 
 
 # Data Warhouse Design
